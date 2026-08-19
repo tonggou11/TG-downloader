@@ -1,4 +1,4 @@
-# Shorts Batch Archiver
+# TG-downloader
 
 面向视频内容团队的 YouTube Shorts 批量归档工具：Excel 批量导入频道 → 按播放量自动排序 → 高并发下载 → 自动命名归档。
 
