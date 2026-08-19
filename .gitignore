@@ -1,0 +1,22 @@
+# 构建产物
+dist/
+build/
+*.spec
+*.exe
+
+# 资产（第三方二进制，未随仓库分发）
+assets/
+
+# 日志与缓存
+*.log
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
